@@ -27,3 +27,12 @@
 ## Later 
 * Set up lights devices (dimmer switch, groups, etc)
 -----------
+
+## Way later 
+* Create a "Party" 
+* Invite people to "Party" 
+* Allow guests to add music to "Party" 
+* Limit music added to "Party" (but like a fair amount, 5 songs to start, 1 song per 3 mins?) 
+* Allow people to "Veto" music
+-----------
+
